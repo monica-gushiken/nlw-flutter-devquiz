@@ -1,6 +1,6 @@
 # devquiz
 
-A new Flutter project.
+Projeto desenvolvido durante o evento NLW#05 da Rocketseat.
 
 ## Getting Started
 
